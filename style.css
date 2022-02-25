@@ -1,0 +1,80 @@
+body{
+    background-color:beige;
+    margin: 0;
+   
+   
+}
+
+h1{
+    margin: 0;
+    
+}
+
+.intro{
+    text-align: center;
+    background-color:blanchedalmond;
+    font:  serif;
+}
+
+
+
+img{
+    width: 4%;
+}
+
+.name{
+    color: brown;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.aboutme{
+    width: auto;
+    height: auto;
+    text-align: center;
+   
+}
+
+.aboutme .user{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+
+.introduction-container{
+   
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.skills img{
+    display: inline-block;
+    width: 150px;
+    margin: 25px 50px;
+    transition: .5s;
+    
+}
+
+.skills img:hover{
+    transform: scale(1.5);
+}
+
+.contact{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.contact img{
+    margin: 25px 50px;
+    width: 50px;
+}
+
+.line{
+    width: auto;
+    height:1px;
+    background-color: black;
+}
+
